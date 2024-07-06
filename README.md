@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi! I'm Anshika, a passionate programmer with a focus on building web applications.<br>I'm skilled in Python, C++ and Javascript.<br>When I'm not coding, I like to read fiction and watch whodunits.<br> I'm always open to collaborating on interesting projects, so feel free to reach out!<br>Talk to me about Jane Austen, Nora Ephron and Rosa Diaz.<br>
+Hi! I'm Anshika, a passionate programmer with a focus on building web applications.<br>I'm skilled in Python, C++ and Javascript.<br> I'm always open to collaborating on interesting projects, so feel free to reach out!<br>Talk to me about Jane Austen, Nora Ephron and Rosa Diaz.<br>
 
 
 ## 🌐 Socials:
