@@ -4,8 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Interning as a Decision Analytics Associate at ZS Associates, Pune. (Basically on my way to become a #DataNerd.\
-🎓 &nbsp;I'm a final-year engineering student majoring in Industrial Engineering with a minor in Computer Science at NIT Jalandhar.\
+👨‍💻 &nbsp;AI Engineer @ Wink\
+🎓 &nbsp;I'm an Industrial Engineering Grad from NIT Jalandhar (2025) with a minor in Comp Sci\
 ⚡ &nbsp;Every weekend is race weekend!\
 💡 &nbsp;Whether it's a gripping murder mystery novel or a technical paper, I'm in.\
 🌱 &nbsp;A big fan of Cricket—there's nothing like catching up on a thrilling match.\
