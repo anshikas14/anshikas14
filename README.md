@@ -5,10 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;AI Engineer @ Wink\
-🎓 &nbsp;I'm an Industrial Engineering Grad from NIT Jalandhar (2025) with a minor in Comp Sci\
-⚡ &nbsp;Every weekend is race weekend!\
-💡 &nbsp;Whether it's a gripping murder mystery novel or a technical paper, I'm in.\
-🌱 &nbsp;A big fan of Cricket—there's nothing like catching up on a thrilling match.\
+🎓 &nbsp;I'm an Industrial Engineering Grad from NIT Jalandhar (2025) with a minor in Comp Science\
 ✉️ &nbsp;You can shoot me an email at workmail.anshika@gmail.com! I'll try to respond as soon as I can.
 
 
